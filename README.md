@@ -28,6 +28,20 @@ An interactive Streamlit app for predicting stock trends using LSTM-based time-s
 - Visualized performance via **line charts** and **confusion matrices**.
 
 ---
+## Screenshots
+![image](https://github.com/user-attachments/assets/2592a1b4-b8a6-40d3-850d-ebfdd301fcb0)
+-Raw data and closing price history.
+![image](https://github.com/user-attachments/assets/6f2df0a8-63f6-491b-828d-a0a8ac5c40a5)
+-RMSE, MAPE, Predicted vs Actual prices.
+![image](https://github.com/user-attachments/assets/9536a1bf-2a72-4710-b45a-62edb20ab308)
+-Sidebar.
+![image](https://github.com/user-attachments/assets/954365b1-3635-437f-9904-b329f35b78d4)
+-Threshold Accuracy for Accuracy Threshold(%) 3.
+![image](https://github.com/user-attachments/assets/c7c59ef7-522a-494f-8dea-e6e77f92812c)
+-Threshold Accuracy for Accuracy Threshold(%) 5.
+![image](https://github.com/user-attachments/assets/e7d55c68-2bb6-43ee-9ee5-f7b3deab53e8)
+-Multiple Tickers.
+
 
 ## 🧠 Model
 
